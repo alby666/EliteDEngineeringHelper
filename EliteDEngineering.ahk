@@ -121,7 +121,6 @@ Engineer5:
     Return
 
 ApplySingleEngineeringLevel: 
-    global LevelsToApply
 
     ; Space 4 times to apply engineering (3 presses only required for lvl 1 but last keystoke does nothing)
     ; Select Generate Modification
